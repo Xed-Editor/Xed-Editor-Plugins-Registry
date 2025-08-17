@@ -1,0 +1,1 @@
+# Xed-Editor-Plugins-Registry
